@@ -1,4 +1,4 @@
-# IBM-Data-Science Assignments
+# IBM Data Science Assignments
 Capstone Projects for the courses in the IBM Data Science Professional Certificate programme. (Python)  
 The projects are for the following courses on Coursera:  
 1. Python for Data Science  
